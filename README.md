@@ -1,9 +1,15 @@
 # Executive Financial Control Tower – Power BI Project
 
 ##  Project Overview
-This project delivers an executive-level **Financial Control Tower dashboard** built in Power BI. 
+ This is a project I made to showcase my Power BI skills. It delivers an executive-level **Financial Control Tower dashboard**.
 
-The solution enables leadership to monitor financial performance, compare Actual vs Budget, track forecast accuracy, analyze regional and product performance, and simulate revenue growth scenarios, all within a secure and enterprise-grade BI framework.
+This dashboard enables leadership to monitor financial performance, compare Actual vs Budget, track forecast accuracy, analyze regional and product performance, and simulate revenue growth scenarios, all within a secure and enterprise-grade BI framework.
+
+In this project, I wanted to demonstrate my DAX skills with 25+ DAX measures and Time Intelligence implemented. 
+
+I recommend downloading the PBIX file to see all dashboard capabilities, but you can also scroll down to see screenshots.
+
+Please note I only have access to Power BI desktop, therefore I am not able to implement features like buttons etc.
 
 
 ---
@@ -92,7 +98,6 @@ Measures include:
 ### Contribution & Ranking
 - Revenue Contribution % by Region  
 - Revenue Contribution % by Product  
-- Top N Product Logic  
 
 ### Dynamic KPI Selector
 - Disconnected KPI Table  
@@ -104,7 +109,6 @@ Measures include:
 - Adjusted Revenue  
 - Adjusted Profit  
 - Profit Impact analysis  
-- Scenario comparison visual  
 
 ---
 
@@ -117,16 +121,7 @@ Implemented role-based access control:
 - Tested using “View as Role” functionality
 
 
----
 
-##  Key Skills Demonstrated
-
-- Advanced DAX and Time Intelligence
-- Star Schema Data Modeling
-- Performance-focused BI design
-- Financial KPI engineering
-- Scenario simulation modeling
-- Enterprise Row-Level Security
 
 ---
 
