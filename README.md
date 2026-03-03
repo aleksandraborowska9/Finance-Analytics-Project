@@ -9,7 +9,7 @@ In this project, I wanted to demonstrate my DAX skills with 25+ DAX measures and
 
 I recommend downloading the PBIX file to see all dashboard capabilities, but you can also scroll down to see screenshots.
 
-Please note I only have access to Power BI desktop, therefore I am not able to implement features like buttons etc.
+Please note I only have access to Power BI desktop, therefore I am not able to implement some navigation features like buttons.
 
 
 ---
